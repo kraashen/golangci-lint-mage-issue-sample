@@ -9,6 +9,9 @@ mage checkall
 Running target: CheckAll
 Running dependency: Lint
 
+echo $?
+0
+ 
 # only Lint target is run, but not the following subsequent target
 ```
 
