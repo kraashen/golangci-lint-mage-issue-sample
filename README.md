@@ -3,8 +3,8 @@
 ## Reproducing
 
 ```bash
-git clone git@github.com:kraashen/golangci-mage-sample.git
-cd golangci-mage-sample
+git clone git@github.com:kraashen/golangci-lint-mage-issue-sample.git
+cd golangci-lint-mage-issue-sample
 mage checkall
 Running target: CheckAll
 Running dependency: Lint
